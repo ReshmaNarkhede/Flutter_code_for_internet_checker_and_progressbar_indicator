@@ -1,4 +1,4 @@
-# flutter_sample_app
+# flutter_internet_checker_and_progressbar_indicator_app
 
 A new Flutter application for internet check before WS call and show progress bar indicator.
 
@@ -10,3 +10,5 @@ progress_hud: ^0.2.2 or refer https://pub.dartlang.org/packages/progress_hud
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+
